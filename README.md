@@ -1,2 +1,2 @@
-# caiolouro.github.io
-My personal page repository.
+# caiolouro.tech
+My personal site repository.
